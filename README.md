@@ -1,2 +1,2 @@
-# Alura-Jogo-Pong
+# Alura-Jogos
 Materiais desenvolvidos no curso da Alura.
